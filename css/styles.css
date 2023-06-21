@@ -10,16 +10,13 @@ body {
 header {
   position: relative;
   min-width: 100%;
-  height: 10rem;
+  height: 7rem;
   background-color: #3f5a36;
-  border-bottom: 2rem solid #362419;
-}
-
-#vine {
-  position: absolute;
+  border-bottom: .5rem solid #362419;
 }
 
 #rune {
   position: absolute;
-  
+  width: clamp(26.5rem , 31.3vw, 50rem);
+  left: clamp(21.196vw, 34.35vw, 54.8721vw);
 }
