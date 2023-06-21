@@ -15,10 +15,36 @@ header {
   height: 7rem;
   background-color: #3f5a36;
   border-bottom: .5rem solid #362419;
-  
+  margin-bottom: 15rem;
 }
 
 #rune {
   position: absolute;
   width: clamp(30rem, calc(28rem + 10vw), 40rem);
+}
+
+main {
+  display: flexbox;
+  flex-direction: column;
+}
+
+h2 {
+  margin: 0 0 2rem 8%;
+  font-size: 4rem;
+}
+
+.month {
+  width: 80vw;
+  min-height: 60vh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  place-items: center;
+  margin: 0 auto 8rem;
+  border: 2rem inset #886806;
+}
+
+#june > div {
+  background-color: cyan;
+  border: ;
 }

@@ -2,5 +2,7 @@ At the start, I will implement a strike through mmanually if I completed a task 
 
 Goals:
 - [X] Center rune
-- [ ] Make actual calender section
-- [ ] Make new svg that scales entire viewport in header (gold bar ;)
+- [X] Properly place vine
+- [X] Make new svg that scales entire viewport in header (gold bar ;)
+
+workOn:
