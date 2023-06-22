@@ -4,5 +4,4 @@ Goals:
 - [X] Center rune
 - [X] Properly place vine
 - [X] Make new svg that scales entire viewport in header (gold bar ;)
-
-workOn:
+- [X] Make page favicon. 
